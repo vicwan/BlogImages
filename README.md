@@ -1,3 +1,3 @@
 # BlogImages
 
-### This is the repository of some images which I used or will use in my personal blogs and articles. 
+### This repo contains some images which I ever used or will use in my personal blogs and articles.
